@@ -1,4 +1,4 @@
-package main.java.set.Ordenacao;
+package main.java.map.Ordenacao;
 
 public class Evento {
     private String nome;
